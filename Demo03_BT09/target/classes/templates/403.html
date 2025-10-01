@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Access Denied</title>
+  <style>
+    :root { --brand:#2563eb; }
+    * { box-sizing: border-box; }
+    body{
+      margin:0; height:100vh; display:flex; align-items:center; justify-content:center;
+      font-family: Arial, sans-serif; background:#f7f8fb; color:#2f3a4a;
+    }
+    .card{
+      width:min(560px, 92vw); background:#fff; border:1px solid #e9eef5; border-radius:14px;
+      box-shadow:0 8px 24px rgba(18,38,63,.06); padding:28px;
+      text-align:center;
+    }
+    .code{
+      display:inline-block; padding:6px 10px; border-radius:8px;
+      background:#eef2ff; color:#3b5bdb; border:1px solid #dfe6ff;
+      font-weight:700; letter-spacing:.05em; margin-bottom:10px;
+    }
+    h1{ margin:.2rem 0 .75rem; font-size:1.6rem; }
+    p{ margin:.25rem 0; color:#667084; }
+    .actions{ margin-top:18px; display:flex; gap:10px; justify-content:center; flex-wrap:wrap; }
+    .btn{
+      padding:10px 14px; border-radius:8px; border:1px solid #d0d7e2; background:#fff; cursor:pointer;
+      text-decoration:none; color:#2f3a4a; font-weight:600;
+    }
+    .btn:hover{ background:#f5f7fb; }
+    .btn-primary{
+      background:var(--brand); color:#fff; border-color:var(--brand);
+    }
+    .btn-primary:hover{ filter:brightness(.92); }
+    small{ color:#8a94a7; display:block; margin-top:12px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <span class="code">403</span>
+    <h1>Sorry, you don't have permission!</h1>
+    <p>Bạn không có quyền truy cập vào tài nguyên này.</p>
+    <p>Nếu bạn nghĩ đây là nhầm lẫn, vui lòng liên hệ quản trị để được cấp quyền phù hợp.</p>
+
+    <div class="actions">
+      <a href="/" class="btn">← Quay về trang chủ</a>
+      <a href="/login" class="btn btn-primary">Đăng nhập tài khoản khác</a>
+    </div>
+
+    <small>Access Denied · Spring Security</small>
+  </div>
+</body>
+</html>

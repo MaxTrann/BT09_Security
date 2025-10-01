@@ -1,2 +1,7 @@
-***Em đã cố gắng làm đúng nhất theo ý thầy ạ***
-**Cảm ơn anh trợ giảng đã chấm điểm cho em <3**
+## Lời cảm ơn  
+
+Em xin gửi lời cảm ơn chân thành đến thầy và anh trợ giảng đã dành thời gian chấm điểm, góp ý và hỗ trợ em trong quá trình học tập.  
+
+Em đã cố gắng hoàn thành bài tập theo đúng hướng dẫn và mong nhận được những nhận xét quý báu để em có thể cải thiện hơn trong tương lai.  
+
+**Đặc biệt, em cảm ơn anh trợ giảng đã chấm điểm cho em <3**  

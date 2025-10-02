@@ -6,10 +6,10 @@ Em đã cố gắng hoàn thành bài tập theo đúng hướng dẫn và mong 
 
 **Đặc biệt, em cảm ơn anh trợ giảng đã chấm điểm cho em <3**
 
-![Mô tả ảnh](./assets/images/screenshot1.png)
-![Mô tả ảnh](./assets/images/screenshot2.png)
-![Mô tả ảnh](./assets/images/screenshot3.png)
-![Mô tả ảnh](./assets/images/screenshot4.png)
-![Mô tả ảnh](./assets/images/screenshot5.png)
-![Mô tả ảnh](./assets/images/screenshot6.png)
-![Mô tả ảnh](./assets/images/screenshot7.png)
+![Mô tả ảnh](./assets/img/screenshot1.png)
+![Mô tả ảnh](./assets/img/screenshot2.png)
+![Mô tả ảnh](./assets/img/screenshot3.png)
+![Mô tả ảnh](./assets/img/screenshot4.png)
+![Mô tả ảnh](./assets/img/screenshot5.png)
+![Mô tả ảnh](./assets/img/screenshot6.png)
+![Mô tả ảnh](./assets/img/screenshot7.png)

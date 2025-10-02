@@ -6,8 +6,3 @@ Em đã cố gắng hoàn thành bài tập theo đúng hướng dẫn và mong 
 
 **Đặc biệt, em cảm ơn anh trợ giảng đã chấm điểm cho em <3**  
 
-![Uploading Screenshot 2025-10-02 132243.png…]()
-![Uploading Screenshot 2025-10-02 125833.png…]()
-![Uploading Screenshot 2025-10-02 125411.png…]()
-![Uploading Screenshot 2025-10-02 125222.png…]()
-![Uploading Screenshot 2025-10-02 124507.png…]()
